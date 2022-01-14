@@ -1,1 +1,1 @@
-Implementação da tela de perfil de participante
+Tela de perfil de participante (Modificado)
